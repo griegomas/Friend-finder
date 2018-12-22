@@ -1,5 +1,9 @@
 This is my version of the friend finder app. See below for a Gif of it functioning and a list of instructions if you want to build your own.
 
+Link to Heroku app: https://friend-finder-joel.herokuapp.com/
+
+GIF:
+
 
 
 
