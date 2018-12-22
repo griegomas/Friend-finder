@@ -2,7 +2,7 @@ This is my version of the friend finder app. See below for a Gif of it functioni
 
 Link to Heroku app: https://friend-finder-joel.herokuapp.com/
 
-GIF:
+GIF: https://github.com/griegomas/Friend-finder/blob/master/friendfinder.gif
 
 
 
